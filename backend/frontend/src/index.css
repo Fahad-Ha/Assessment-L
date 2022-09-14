@@ -1,0 +1,26 @@
+main {
+    min-height: 80vh;
+}
+
+.pro-description {
+    margin-bottom: 2%;
+}
+
+.pro-info {
+    color: black;
+    font-size: 1.2rem;
+    width: 10rem;
+    text-align: center;
+    margin: auto;
+}
+
+.button {
+    margin-top: 1rem;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    width: 5px;
+}
